@@ -1,25 +1,11 @@
-# Google Research
+# EEG modelling
 
-This repository contains code released by
-[Google Research](https://research.google).
+Provide several tools to work with EEG data
 
----
+## Tools
+* [EEG Viewer](eeg_viewer/README.md)
+  Display EEG data in a web interface. Instructions in eeg_viewer/README.md.
 
-Because the repo is large, we recommend you download only the subdirectory of
-interest:
-
-```
-
-svn export https://github.com/google-research/google-research
-```
-
-If you'd like to submit a pull request, you'll need to clone the repository;
-we recommend making a shallow clone (without history).
-
-```
-git clone git@github.com:google-research/google-research.git 
-```
-
----
-
-* Amir|Disclaimer: This is not an official Google product.*
+* [EDF Library](edf/README.md)
+  This folder contains libraries to convert EEG from EDF format to
+  tensorflow.Example proto format. Instructions in edf/README.md.
