@@ -10,7 +10,7 @@ interest:
 
 ```
 SUBDIR=foo
-svn export https://github.com/google-research/google-research/trunk/$SUBDIR
+svn export https://github.com/google-research/google-research
 ```
 
 If you'd like to submit a pull request, you'll need to clone the repository;
