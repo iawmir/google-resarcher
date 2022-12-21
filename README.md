@@ -9,7 +9,7 @@ Because the repo is large, we recommend you download only the subdirectory of
 interest:
 
 ```
-SUBDIR=foo
+
 svn export https://github.com/google-research/google-research
 ```
 
