@@ -1,6 +1,5 @@
-# Action-Gap RL
 
-Collaborators: *danabo@google.com*, *schuurmans@google.com*
+
 
 
 # Running
