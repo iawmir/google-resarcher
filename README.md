@@ -17,9 +17,9 @@ If you'd like to submit a pull request, you'll need to clone the repository;
 we recommend making a shallow clone (without history).
 
 ```
-git clone git@github.com:google-research/google-research.git --depth=1
+git clone git@github.com:google-research/google-research.git 
 ```
 
 ---
 
-*Disclaimer: This is not an official Google product.*
+* Amir|Disclaimer: This is not an official Google product.*
